@@ -7,8 +7,8 @@ Organiza e renderiza outros componentes da aplicação, como cabeçalhos, rodap�
 É o ponto central onde a maioria dos componentes da interface do usuário é montada e organizada.
 
 ClassName : Usado para adicionar uma ou mais classes CSS a um elemento HTML, permite aplicar estilos especifícos.
-<div> é um elemento que representa uma divisão genérica em um documento HTML
-<input> é um elemento HTML usado para criar controles interativos de entrada de dados em um formulário web. Ele permite que os usuários insiram dados que podem ser enviados para um servidor.
-<span> agrupa e estiliza os conteúdos sem causar quebras de linha
-<nav> representa uma seção de navegação em um documento web. 
-<a href> a = âncora, href é um atribuito para links
+Div é um elemento que representa uma divisão genérica em um documento HTML
+Input é um elemento HTML usado para criar controles interativos de entrada de dados em um formulário web. Ele permite que os usuários insiram dados que podem ser enviados para um servidor.
+Span agrupa e estiliza os conteúdos sem causar quebras de linha
+Nav representa uma seção de navegação em um documento web. 
+a href a = âncora, href é um atribuito para links
